@@ -3,6 +3,11 @@
 
     <string name="app_name">MindTeaser</string>
     <string name="action_settings">Settings</string>
-    
+    <string name="mais">+</string>
+    <string name="menos">-</string>
+    <string name="multiplicacao">x</string>
+    <string name="divisao">/</string>
+    <string name="TV_escolherValores">Escolha valores</string>
+    <string name="BT_1">OK</string>
 
 </resources>
